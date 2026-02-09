@@ -1,0 +1,1 @@
+# JTE2026_3.2_testiautomaatio
